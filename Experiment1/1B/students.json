@@ -1,0 +1,26 @@
+[
+    {
+        "Roll-No":101,
+        "Name":"Anusha",
+        "Department":"IT",
+        "Percentage":89
+    },
+    {
+        "Roll-No":102,
+        "Name":"Babitha",
+        "Department":"IT",
+        "Percentage":92
+    },
+    {
+        "Roll-No":103,
+        "Name":"charitha",
+        "Department":"CSE",
+        "Percentage":88
+    },
+    {
+        "Roll-No":104,
+        "Name":"deepika",
+        "Department":"ECE",
+        "Percentage":85
+    }
+]
