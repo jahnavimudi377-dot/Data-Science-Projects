@@ -27,13 +27,12 @@ This folder contains the programs and files I worked on for Experiment 1.
 
 text
 Data-Science-Projects/
-│
-├── Experiment1/
-│   ├── 1A/
-│   ├── 1B/
-│   └── 1C/
-│
-└── README.md
+  Experiment1/
+    1A/
+    1B/
+    1C/
+
+ README.md
 
 
 ## Purpose
